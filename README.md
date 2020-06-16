@@ -32,5 +32,5 @@ public static \$cpf_slug = 'my-cpf';
 [http://site.com/wp-json/wp/v2/{{cpf_slug}}/](http://site.com/wp-json/wp/v2/{{cpf_slug}}/)
 
 
-## Posible problems
+## Possible problems
 	- Verify that the the permalinks settings are saved. Wp-admin - Settings - Permalinks , I had some problems with my hosting example for that reason , you will maybe need to deactivate and Activate again after saving the permalink.
