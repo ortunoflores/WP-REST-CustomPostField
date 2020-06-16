@@ -21,5 +21,5 @@ public static \$cpf_slug = 'my-cpf';
 `
 
 ## How to call get all CPF data from
-	// [https://bronceylana.com/excerciseFer/wp-json/wp/v2/my-cpf/] -- The plugin it is published on this site
+	// [https://bronceylana.com/excerciseFer/wp-json/wp/v2/my-cpf/] -- The plugin is published on this site
 [http://site.com/wp-json/wp/v2/{{cpf_slug}}/](http://site.com/wp-json/wp/v2/{{cpf_slug}}/)
