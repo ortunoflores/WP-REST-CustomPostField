@@ -85,7 +85,7 @@ class WP_REST_CPF_META_FIELD {
    
 
     /**
-     * display cpt meta fields
+     * This method display the cpf meta fields
      *
      * @param string/int $post
      * @param array $meta
