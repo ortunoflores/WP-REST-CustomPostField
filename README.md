@@ -4,12 +4,12 @@ WordPress plugin add CPF with textarea metabox in REST API
 
 ## How to install and customize
 
-1.- Upload the folder to the plugins section
-2.- Activate the plugin
-3.- Inside the option MY CPF on the left hand rail navigation access to the plugin
-4.- Fill the data using Gutenberg editor, add data on the metabox field
-5.- Publish the changes
-6.- Call the API of CPF data, there you will be able to see all the data, specially the "my-cpt-meta" with the meta data (check the section with the example)
+*  Upload the folder to the plugins section
+*  Activate the plugin
+*  Inside the option MY CPF on the left hand rail navigation access to the plugin
+*  Fill the data using Gutenberg editor, add data on the metabox field
+*  Publish the changes
+*  Call the API of CPF data, there you will be able to see all the data, specially the "my-cpt-meta" with the meta data (check the section with the example)
 
 Put your values here
 `
